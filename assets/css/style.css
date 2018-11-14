@@ -1,6 +1,19 @@
 .card {
     text-align: center;
     margin: 0 auto;
-    margin-top: 175px;
+    margin-top: 100px;
     padding: 30px;
+    
+    
 }
+
+body {
+    background: url("http://i68.tinypic.com/t84yyo.jpg")no-repeat center center fixed;
+    
+    background-size: cover;
+}
+
+
+
+/* <a href="http://tinypic.com?ref=t84yyo" target="_blank"><img src="http://i68.tinypic.com/t84yyo.jpg" border="0" alt="Image and video hosting by TinyPic"></a> */
+
