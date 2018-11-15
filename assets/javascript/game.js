@@ -1,5 +1,3 @@
-
-
 //Global Variables ------------------------------------------------------------------------------------------------
 
 var words = ["longhorn", "congress", "food", "music"];
@@ -81,6 +79,7 @@ function processLetters(letter) {
 resetGame();
 };
 
+
 function resetGame(){
 
     document.getElementById("currentWord").innerHTML = blanksAndSuccesses.join(" ");
@@ -120,3 +119,4 @@ document.onkeyup = function (event) {
 
     processLetters(userLetter);
 };
+
